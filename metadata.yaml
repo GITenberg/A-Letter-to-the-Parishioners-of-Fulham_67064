@@ -1,0 +1,22 @@
+_repo: A-Letter-to-the-Parishioners-of-Fulham_67064
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baker, R. G. (Robert George)
+    alias: Baker, Robert George
+    birthdate: 1788
+    deathdate: 1878
+    gutenberg_agent_id: '53084'
+    url: http://www.gutenberg.org/2009/agents/53084
+description: ''
+gutenberg_issued: '2022-01-01'
+identifiers:
+  gutenberg: '67064'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: A Letter to the Parishioners of Fulham
+url: http://www.gutenberg.org/ebooks/67064
