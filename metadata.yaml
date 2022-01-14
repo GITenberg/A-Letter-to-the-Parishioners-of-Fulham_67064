@@ -1,5 +1,8 @@
 _repo: A-Letter-to-the-Parishioners-of-Fulham_67064
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67064-h/images/cover.jpg
 creator:
   author:
     agent_name: Baker, R. G. (Robert George)
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '53084'
     url: http://www.gutenberg.org/2009/agents/53084
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67064#A-Letter-to-the-Parishioners-of-Fulham
 gutenberg_issued: '2022-01-01'
 identifiers:
   gutenberg: '67064'
